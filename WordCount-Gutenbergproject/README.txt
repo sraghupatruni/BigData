@@ -1,9 +1,12 @@
+Goal: To perform in-mapper aggregation method for counting words in Gutenberg project 
+
 **Before running this code make sure all the 6 files are present in assignment1 directory
 Note: Stop words are being fetched from the following: hdfs://cshadoop1/user/lps160130/stopwords.txt
 
 1. Unzip wordcount.zip and remember the location.
 
-2. Import the project into Eclipse for Java EE. For this, go to File -> Import and choose "Existing Maven Projects".
+2. Import the project into Eclipse for Java EE. For this, go to File -> Import and choose "Existing Maven Projects".
+
 
 3.Build the project by right clicking on the pom.xml file to generate wordcount-0.0.1-SNAPSHOT
 
